@@ -1,18 +1,31 @@
 # Estanislao Molinas
 
-AI Product Manager & Owner (B2B y B2C) | Consultor B2G (Business-to-Government) — Santa Fe, Argentina
+AI Product Manager & Owner (B2B y B2C) | Consultor B2G (Business-to-Government)
+
+Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum Inc. · Google Project Management Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estanislao-molinas-4057ba1b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estanislao.molinasir@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6671-854X)
 [![Portfolio B2G](https://img.shields.io/badge/Portfolio_B2G-000000?style=flat&logo=googlechrome&logoColor=white)](https://estanislaomolinasb2g.com/)
 
-Licenciado en Relaciones Internacionales (UCSF) y candidato a la Especialización y Maestría en Minería de Datos (UTN). Me gusta trabajar en la intersección entre investigación e Inteligencia Artificial aplicada a Relaciones Internacionales.
+## Product Skills
+
+- Visión y estrategia de producto
+- Priorización de backlog y roadmap
+- Facilitación de ceremonias Scrum / Agile
+- Product discovery → delivery (ciclo completo)
+- A/B testing y experimentación (formato, tono, estructura)
+- Analítica de datos aplicada a producto (SQL)
+- Diseño orientado a experiencia de usuario
+- Stakeholder management (sector público y privado, equipos cross-funcionales)
+
+**Profundizando:** manejo de APIs, herramientas de analítica de producto (Google Analytics, Amplitude, Mixpanel), Flask, Claude Agent SDK.
 
 ## Experiencia
 
 **AI Product Owner — Colonia Suiza** (jul. 2026–actualidad, Buenos Aires, híbrido)  
-Equipo de Innovación, Departamento IT. Integración de IA en productos para gerencia de siniestros, 4 verticales de negocio.
+Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management sobre una arquitectura de 17 microservicios y 17 micro-frontends. Integración de IA en productos para gerencia de siniestros, 4 verticales de negocio.
 
 **Profesor, taller "Herramientas de IA para politólogos e internacionalistas" — Diplomacia Activa** (jun. 2026–actualidad, remoto)  
 Formación en LLMs (Claude) y NotebookLM para casos de uso de Ciencia Política, RRII y Ciencias Sociales.
@@ -48,10 +61,10 @@ Participé en el ciclo completo de producto (discovery → delivery) con el CTO 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **Metodologías:** Scrum · Agile · Kanban
+
+**En desarrollo:** Flask · Claude Agent SDK · APIs · CI/CD · Google Analytics · Amplitude · Mixpanel
 
 ## Proyectos
 
@@ -65,6 +78,92 @@ Participé en el ciclo completo de producto (discovery → delivery) con el CTO 
 ## Certificaciones
 
 - Google Project Management Professional Certificate — Coursera (ene. 2025)
+- Registered Product Owner™ (RPO) — Agile Education by Scrum Inc.
+- Registered Scrum Master™ (RSM) — Agile Education by Scrum Inc.
+- Product Manager Flex — Coderhouse
+- Claude Code in Action — Anthropic
+- Claude 101 — Anthropic
+- How Transformer LLMs Work — DeepLearning.AI
+- Introduction to Python — DataCamp
+- EF SET English Certificate — C1 Advanced (67/100)
+
+---
+
+# English
+
+AI Product Manager & Owner (B2B and B2C) | B2G (Business-to-Government) Consultant
+
+Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum Inc. · Google Project Management Professional
+
+## Product Skills
+
+- Product vision and strategy
+- Backlog prioritization and roadmapping
+- Facilitating Scrum / Agile ceremonies
+- Full product discovery → delivery cycle
+- A/B testing and experimentation (format, tone, structure)
+- Data analytics applied to product (SQL)
+- User-experience-oriented design
+- Stakeholder management (public and private sector, cross-functional teams)
+
+**Currently learning:** API integration, product analytics tools (Google Analytics, Amplitude, Mixpanel), Flask, CI/CD, Claude Agent SDK.
+
+## Experience
+
+**AI Product Owner — Colonia Suiza** (Jul 2026–present, Buenos Aires, hybrid)  
+Innovation Team, IT Department. Hybrid role between software development and product management on an architecture of 17 microservices and 17 micro-frontends. Integrating AI into products for the claims (insurance) business, across 4 business verticals.
+
+**Instructor, "AI Tools for Political Scientists and International Relations Professionals" workshop — Diplomacia Activa** (Jun 2026–present, remote)  
+Training on LLMs (Claude) and NotebookLM for Political Science, International Relations, and Social Sciences use cases.
+
+**AI Product Manager — Project Copilot LLC** (May 2026–present, US, remote)  
+Sprint kickoffs, backlog prioritization, Scrum facilitation. Using Claude + Atlassian MCP (Rovo) against the GitHub repo to audit sprints and draft epics and user stories.
+
+**B2G Consultant — ASSAL** (Oct 2025–Jul 2026, Santa Fe Province Ministry of Health)  
+Led the digitalization of the Food Handling Certification course from scratch (1,000+ users on Moodle) and the roadmap for 15 educational videos (HeyGen).
+
+**AI-Driven Operations Manager — Zagged** (Mar–May 2026, NYC, remote)  
+Managed 35+ concurrent international campaigns, cutting delivery time by 30%. Built Notion Agents and a Claude Skill.md for automated reporting.
+
+**Junior SEO Analyst — Refindable** (Jan–Sep 2025, US, remote)  
+Managed SEO performance and content for international clients across the US and Australia. Built the Google Search Console → Looker Studio integration for KPI reporting. QA tester for a pre-trained LLM used for SEO-optimized article writing.
+
+**AI Product Manager Trainee — Project Copilot** (Apr 2024–Jan 2025, Santa Fe, remote)  
+Participated in the full product cycle (discovery → delivery) with the CTO and PM, applying Scrum and Kanban. Documented SOPs to standardize team workflows.
+
+## Education
+
+- Specialization and Master's in Data Mining — UTN Santa Fe (2026–2029, in progress)
+- Bachelor's in International Relations — UCSF (2022–2026), GPA 9.31/10. Thesis (grade: 10): *"The Development of Artificial Intelligence in Cyberspace: US-China Bilateral Relations, 2017-2025"*
+- Exchange semester in Global Law and Transnational Studies — Università degli Studi di Torino (2023–2024)
+- Business Track / AI Agency — Golem Lab AI (2026, in progress)
+- Empower Digital Product Leaders™ — ITtude, intensive Product Management mentorship (Apr–Jul 2026)
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
+**Methodologies:** Scrum · Agile · Kanban
+
+**Currently learning:** Flask · Claude Agent SDK · APIs · CI/CD · Google Analytics · Amplitude · Mixpanel
+
+## Projects
+
+- **[data-analysis-portfolio](https://github.com/estanimolinas/data-analysis-portfolio)** — Data analysis project portfolio (Excel, Python, SQL).
+- **[ResearcherBasicAIAgent](https://github.com/estanimolinas/ResearcherBasicAIAgent)** — Basic research AI agent built with Python and LangChain.
+- **[seminario-introduccion-a-r](https://github.com/estanimolinas/seminario-introduccion-a-r)** — Benchmark analysis of 188 LLMs in R (Spearman correlations, Kruskal-Wallis, linear regression). UTN final project, grade: 10.
+- **[seminario-de-algoritmos-utn](https://github.com/estanimolinas/seminario-de-algoritmos-utn)** — UTN Algorithms Seminar coursework, in Python.
+- **[Coming soon]** — Linear regression model with scikit-learn (Kaggle, NumPy, Matplotlib).
+- **[Coming soon]** — Product use case built with the Claude Agent SDK.
+
+## Certifications
+
+- Google Project Management Professional Certificate — Coursera (Jan 2025)
 - Registered Product Owner™ (RPO) — Agile Education by Scrum Inc.
 - Registered Scrum Master™ (RSM) — Agile Education by Scrum Inc.
 - Product Manager Flex — Coderhouse
