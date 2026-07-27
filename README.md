@@ -73,7 +73,8 @@ Participé en el ciclo completo de producto (discovery → delivery) con el CTO 
 - **[seminario-introduccion-a-r](https://github.com/estanimolinas/seminario-introduccion-a-r)** — Análisis de benchmarks de 188 LLMs con R (correlaciones de Spearman, Kruskal-Wallis, regresión lineal). Trabajo final UTN, nota 10.
 - **[seminario-de-algoritmos-utn](https://github.com/estanimolinas/seminario-de-algoritmos-utn)** — Trabajo del Seminario de Algoritmos (UTN), en Python.
 - **[Próximamente]** — Modelo de regresión lineal con scikit-learn (Kaggle, NumPy, Matplotlib).
-- **[Próximamente]** — Caso de uso de producto con Claude Agent SDK.
+- **[claude-sdk-agent-product-management-case
+Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-case)** — Caso de uso de producto con Claude Agent SDK.
 
 ## Certificaciones
 
