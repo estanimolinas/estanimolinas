@@ -160,7 +160,8 @@ Participated in the full product cycle (discovery → delivery) with the CTO and
 - **[seminario-introduccion-a-r](https://github.com/estanimolinas/seminario-introduccion-a-r)** — Benchmark analysis of 188 LLMs in R (Spearman correlations, Kruskal-Wallis, linear regression). UTN final project, grade: 10.
 - **[seminario-de-algoritmos-utn](https://github.com/estanimolinas/seminario-de-algoritmos-utn)** — UTN Algorithms Seminar coursework, in Python.
 - **[Coming soon]** — Linear regression model with scikit-learn (Kaggle, NumPy, Matplotlib).
-- **[Coming soon]** — Product use case built with the Claude Agent SDK.
+- **[claude-sdk-agent-product-management-case
+Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-case)** — Product use case built with the Claude Agent SDK.
 
 ## Certifications
 
