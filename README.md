@@ -25,7 +25,7 @@ Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum I
 ## Experiencia
 
 **AI Product Owner — Colonia Suiza** (jul. 2026–actualidad, Buenos Aires, híbrido)  
-Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Integración de IA en productos para gerencia de siniestros, 4 verticales de negocio.
+Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Innovación en productos y microservicios para gerencia de siniestros, 4 verticales de negocio.
 
 **Profesor, taller "Herramientas de IA para politólogos e internacionalistas" — Diplomacia Activa** (jun. 2026–actualidad, remoto)  
 Formación en LLMs (Claude) y NotebookLM para casos de uso de Ciencia Política, RRII y Ciencias Sociales.
@@ -112,7 +112,7 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 ## Experience
 
 **AI Product Owner — Colonia Suiza** (Jul 2026–present, Buenos Aires, hybrid)  
-Innovation Team, IT Department. Hybrid role between software development and product management. Integrating AI into products for the claims (insurance) business, across 4 business verticals.
+Innovation Team, IT Department. Hybrid role between software development and product management. R+D of innovative solutions into products & microservices for the claims (insurance) business, across 4 business verticals.
 
 **Instructor, "AI Tools for Political Scientists and International Relations Professionals" workshop — Diplomacia Activa** (Jun 2026–present, remote)  
 Training on LLMs (Claude) and NotebookLM for Political Science, International Relations, and Social Sciences use cases.
