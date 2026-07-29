@@ -15,10 +15,10 @@ Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum I
 - Priorización de backlog y roadmap
 - Facilitación de ceremonias Scrum / Agile
 - Product discovery → delivery (ciclo completo)
-- A/B testing y experimentación (formato, tono, estructura)
+- A/B testing y experimentación 
 - Analítica de datos aplicada a producto (SQL)
 - Diseño orientado a experiencia de usuario
-- Stakeholder management (sector público y privado, equipos cross-funcionales)
+- Stakeholder management 
 
 **Profundizando:** manejo de APIs, herramientas de analítica de producto (Google Analytics, Amplitude, Mixpanel), Flask, Claude Agent SDK.
 
@@ -105,10 +105,10 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 - Backlog prioritization and roadmapping
 - Facilitating Scrum / Agile ceremonies
 - Full product discovery → delivery cycle
-- A/B testing and experimentation (format, tone, structure)
+- A/B testing and experimentation 
 - Data analytics applied to product (SQL)
 - User-experience-oriented design
-- Stakeholder management (public and private sector, cross-functional teams)
+- Stakeholder management
 
 **Currently learning:** API integration, product analytics tools (Google Analytics, Amplitude, Mixpanel), Flask, CI/CD, Claude Agent SDK.
 
