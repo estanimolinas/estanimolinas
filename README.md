@@ -24,7 +24,7 @@ Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum I
 
 ## Experiencia
 
-**AI Product Owner — Colonia Suiza** (jul. 2026–actualidad, Buenos Aires, híbrido)  
+**AI Product Owner — Colonia Suiza** (jul. 2026–actualidad)  
 Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Innovación en productos y microservicios para gerencia de siniestros, 4 verticales de negocio.
 
 **Profesor, taller "Herramientas de IA para politólogos e internacionalistas" — Diplomacia Activa** (jun. 2026–actualidad, remoto)  
@@ -89,7 +89,7 @@ Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-cas
 - EF SET English Certificate — C1 Advanced (67/100)
 
 ## Desafíos
-- **[Primer challenge de LeetCode]([https://github.com/estanimolinas/claude-sdk-agent-product-management-case](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd))** — Algoritmo O(n) iterativo
+- **[Primer challenge de LeetCode](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd)** — Algoritmo O(n) iterativo
 
 ---
 
@@ -114,7 +114,7 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 
 ## Experience
 
-**AI Product Owner — Colonia Suiza** (Jul 2026–present, Buenos Aires, hybrid)  
+**AI Product Owner — Colonia Suiza** (Jul 2026–present)  
 Innovation Team, IT Department. Hybrid role between software development and product management. R+D of innovative solutions into products & microservices for the claims (insurance) business, across 4 business verticals.
 
 **Instructor, "AI Tools for Political Scientists and International Relations Professionals" workshop — Diplomacia Activa** (Jun 2026–present, remote)  
@@ -179,4 +179,4 @@ Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-cas
 - EF SET English Certificate — C1 Advanced (67/100)
 
 ## Challenges
-- **[1st challenge de LeetCode]([https://github.com/estanimolinas/claude-sdk-agent-product-management-case](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd))** — O(n) Iterative Algorithn
+- **[1st challenge de LeetCode](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd)** — O(n) Iterative Algorithn
