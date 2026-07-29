@@ -179,4 +179,4 @@ Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-cas
 - EF SET English Certificate — C1 Advanced (67/100)
 
 ## Challenges
-- **[1st challenge de LeetCode](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd)** — O(n) Iterative Algorithn
+- **[1st challenge de LeetCode](https://leetcode.com/problems/roman-to-integer/solutions/8427360/1st-leetcode-challenge-by-estanislao_mol-poyd)** — O(n) Iterative Algorithm
