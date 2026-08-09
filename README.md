@@ -1,6 +1,6 @@
 # Estanislao Molinas
 
-AI Product Manager & Owner (B2B y B2C) | Consultor B2G (Business-to-Government)
+AI Product Manager  (B2B y B2C) | Consultor B2G (Business-to-Government)
 
 Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum Inc. · Google Project Management Professional
 
