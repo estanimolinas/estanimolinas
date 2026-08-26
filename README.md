@@ -24,7 +24,7 @@ Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum I
 
 ## Experiencia
 
-**AI Product Owner — Colonia Suiza** (jul. 2026–actualidad)  
+**Analista de sistemas — Colonia Suiza** (jul. 2026–actualidad)  
 Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Innovación en productos y microservicios para gerencia de siniestros, 4 verticales de negocio.
 
 **Profesor, taller "Herramientas de IA para politólogos e internacionalistas" — Diplomacia Activa** (jun. 2026–actualidad, remoto)  
