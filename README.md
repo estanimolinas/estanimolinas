@@ -114,7 +114,7 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 
 ## Experience
 
-**AI Product Owner — Colonia Suiza** (Jul 2026–present)  
+**Developer — Colonia Suiza** (Jul 2026–present)  
 Innovation Team, IT Department. Hybrid role between software development and product management. R+D of innovative solutions into products & microservices for the claims (insurance) business, across 4 business verticals.
 
 **Instructor, "AI Tools for Political Scientists and International Relations Professionals" workshop — Diplomacia Activa** (Jun 2026–present, remote)  
