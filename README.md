@@ -24,7 +24,7 @@ Registered Product Owner™ (RPO) y Registered Scrum Master™ (RSM) — Scrum I
 
 ## Experiencia
 
-**Analista de sistemas — Colonia Suiza** (jul. 2026–actualidad)  
+**Software Developer — Colonia Suiza** (jul. 2026–actualidad)  
 Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Innovación en productos y microservicios para gerencia de siniestros, 4 verticales de negocio.
 
 **Profesor, taller "Herramientas de IA para politólogos e internacionalistas" — Diplomacia Activa** (jun. 2026–actualidad, remoto)  
@@ -66,16 +66,6 @@ Participé en el ciclo completo de producto (discovery → delivery) con el CTO 
 
 **En desarrollo:** Flask · Claude Agent SDK · APIs · CI/CD · Google Analytics · Amplitude · Mixpanel
 
-## Proyectos
-
-- **[data-analysis-portfolio](https://github.com/estanimolinas/data-analysis-portfolio)** — Portfolio de análisis de datos (Excel, Python, SQL).
-- **[ResearcherBasicAIAgent](https://github.com/estanimolinas/ResearcherBasicAIAgent)** — Agente de investigación básico con Python y LangChain.
-- **[seminario-introduccion-a-r](https://github.com/estanimolinas/seminario-introduccion-a-r)** — Análisis de benchmarks de 188 LLMs con R (correlaciones de Spearman, Kruskal-Wallis, regresión lineal). Trabajo final UTN, nota 10.
-- **[seminario-de-algoritmos-utn](https://github.com/estanimolinas/seminario-de-algoritmos-utn)** — Trabajo del Seminario de Algoritmos (UTN), en Python.
-- **[Próximamente]** — Modelo de regresión lineal con scikit-learn (Kaggle, NumPy, Matplotlib).
-- **[claude-sdk-agent-product-management-case
-Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-case)** — Caso de uso de producto con Claude Agent SDK.
-
 ## Certificaciones
 
 - Google Project Management Professional Certificate — Coursera (ene. 2025)
@@ -114,7 +104,7 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 
 ## Experience
 
-**Developer — Colonia Suiza** (Jul 2026–present)  
+** Software Developer — Colonia Suiza** (Jul 2026–present)  
 Innovation Team, IT Department. Hybrid role between software development and product management. R+D of innovative solutions into products & microservices for the claims (insurance) business, across 4 business verticals.
 
 **Instructor, "AI Tools for Political Scientists and International Relations Professionals" workshop — Diplomacia Activa** (Jun 2026–present, remote)  
@@ -156,15 +146,6 @@ Participated in the full product cycle (discovery → delivery) with the CTO and
 
 **Currently learning:** Flask · Claude Agent SDK · APIs · CI/CD · Google Analytics · Amplitude · Mixpanel
 
-## Projects
-
-- **[data-analysis-portfolio](https://github.com/estanimolinas/data-analysis-portfolio)** — Data analysis project portfolio (Excel, Python, SQL).
-- **[ResearcherBasicAIAgent](https://github.com/estanimolinas/ResearcherBasicAIAgent)** — Basic research AI agent built with Python and LangChain.
-- **[seminario-introduccion-a-r](https://github.com/estanimolinas/seminario-introduccion-a-r)** — Benchmark analysis of 188 LLMs in R (Spearman correlations, Kruskal-Wallis, linear regression). UTN final project, grade: 10.
-- **[seminario-de-algoritmos-utn](https://github.com/estanimolinas/seminario-de-algoritmos-utn)** — UTN Algorithms Seminar coursework, in Python.
-- **[Coming soon]** — Linear regression model with scikit-learn (Kaggle, NumPy, Matplotlib).
-- **[claude-sdk-agent-product-management-case
-Public](https://github.com/estanimolinas/claude-sdk-agent-product-management-case)** — Product use case built with the Claude Agent SDK.
 
 ## Certifications
 
