@@ -32,14 +32,12 @@ An agent that answers questions about official Argentine time series by querying
 
 ## Experience
 
-**Current**
-
 - **Software Developer — Colonia Suiza** (Jul 2026–present). Innovation Team, IT Department. Hybrid role between development and product management. End-to-end development of AI solutions and microservices for the claims business (data pipelines, backend, integrations), across 4 business verticals.
-- **AI Product Manager — Project Copilot LLC** (May 2026–present, US, remote). Sprint kickoffs, backlog prioritization, Scrum facilitation. Sprint audits and epic and user story drafting with Claude and the Atlassian MCP (Rovo) against the GitHub repository.
-- **Instructor — Diplomacia Activa** (Jun 2026–present, remote). Workshop "AI Tools for Political Scientists and International Relations Professionals": LLMs (Claude) and NotebookLM applied to Political Science and Social Sciences.
 
-**Product, operations and data roles (2024–2026)**
+**Previous roles**
 
+- **Instructor — Diplomacia Activa** (2026, remote). Workshop "AI Tools for Political Scientists and International Relations Professionals": LLMs (Claude) and NotebookLM applied to Political Science and Social Sciences.
+- **AI Product Manager — Project Copilot LLC** (2026, US, remote). Sprint kickoffs, backlog prioritization, Scrum facilitation. Sprint audits and epic and user story drafting with Claude and the Atlassian MCP (Rovo) against the GitHub repository.
 - **B2G Consultant — ASSAL** (Oct 2025–Jul 2026, Santa Fe Province Ministry of Health). Food Handling Certification course digitalized from scratch (1,000+ users on Moodle) and roadmap for 15 educational videos.
 - **AI-Driven Operations Manager — Zagged** (Mar–May 2026, NYC, remote). 35+ concurrent international campaigns with a 30% reduction in delivery time. Reporting automated with Notion Agents and a Claude Skill.md.
 - **Junior SEO Analyst — Refindable** (Jan–Sep 2025, US, remote). SEO performance and content for clients in the US and Australia. Google Search Console → Looker Studio integration for KPI reporting. QA testing of a pre-trained LLM for article writing.
@@ -92,14 +90,12 @@ Agente que responde preguntas sobre series de tiempo oficiales de Argentina cons
 
 ## Experiencia
 
-**Actual**
-
 - **Software Developer — Colonia Suiza** (jul. 2026–actualidad). Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Desarrollo end-to-end de soluciones de IA y microservicios para gerencia de siniestros (pipelines de datos, backend, integraciones), 4 verticales de negocio.
-- **AI Product Manager — Project Copilot LLC** (may. 2026–actualidad, US, remoto). Sprint kickoffs, priorización de backlog, facilitación Scrum. Auditoría de sprints y redacción de epics e historias de usuario con Claude y el MCP de Atlassian (Rovo) sobre el repositorio de GitHub.
-- **Profesor — Diplomacia Activa** (jun. 2026–actualidad, remoto). Taller "Herramientas de IA para politólogos e internacionalistas": LLMs (Claude) y NotebookLM aplicados a Ciencia Política y Ciencias Sociales.
 
-**Roles de producto, operaciones y datos (2024–2026)**
+**Roles anteriores**
 
+- **Profesor — Diplomacia Activa** (2026, remoto). Taller "Herramientas de IA para politólogos e internacionalistas": LLMs (Claude) y NotebookLM aplicados a Ciencia Política y Ciencias Sociales.
+- **AI Product Manager — Project Copilot LLC** (2026, US, remoto). Sprint kickoffs, priorización de backlog, facilitación Scrum. Auditoría de sprints y redacción de epics e historias de usuario con Claude y el MCP de Atlassian (Rovo) sobre el repositorio de GitHub.
 - **Consultor B2G — ASSAL** (oct. 2025–jul. 2026, Ministerio de Salud de Santa Fe). Digitalización desde cero del curso de Certificación en Manipulación de Alimentos (+1.000 usuarios en Moodle) y roadmap de 15 videos educativos.
 - **AI-Driven Operations Manager — Zagged** (mar.–may. 2026, NYC, remoto). 35+ campañas internacionales concurrentes con una reducción del 30 % en el tiempo de entrega. Reporting automatizado con Notion Agents y un Claude Skill.md.
 - **Junior SEO Analyst — Refindable** (ene.–sept. 2025, US, remoto). SEO performance y contenido para clientes de USA y Australia. Integración Google Search Console → Looker Studio para reporting de KPIs. QA de un LLM preentrenado para redacción de artículos.
