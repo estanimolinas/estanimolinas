@@ -7,7 +7,6 @@ Data and AI software developer working end to end on solutions for insurance cla
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estanislao-molinas-4057ba1b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estanislao.molinasir@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-6671-854X)
-[![Portfolio B2G](https://img.shields.io/badge/Portfolio_B2G-000000?style=flat&logo=googlechrome&logoColor=white)](https://estanislaomolinasb2g.com/)
 
 🇦🇷 [Versión en español](#español)
 
