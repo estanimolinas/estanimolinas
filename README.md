@@ -1,8 +1,8 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Estanislao Molinas — Data & AI software developer: data, backend, models, interface, evaluation" width="100%">
+<img src="assets/banner.svg" alt="Estanislao Molinas — Junior AI & Data Engineer: AI agents, RAG, data pipelines, evaluation" width="100%">
 </div>
 
-Data and AI software developer working end to end on solutions for insurance claims management: data pipelines, backend services and integrations, LLM-based components and the interfaces around them, as each project requires. Earlier roles in product management, data analytics and public-sector consulting shape how scope is defined, prioritized and measured.
+Junior AI & Data Engineer working in insurance claims management. The role blends AI engineering, data engineering and product thinking: LLM agents and their harnesses (tools, context and evaluation), RAG systems and knowledge bases, and data pipelines that make reliable data available to the BI team. Each solution is owned end to end, from understanding the pain point to shipping it and measuring the result. Earlier roles in product management, data analytics and public-sector consulting shape how scope is defined, prioritized and measured.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estanislao-molinas-4057ba1b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estanislao.molinasir@gmail.com)
@@ -12,9 +12,9 @@ Data and AI software developer working end to end on solutions for insurance cla
 
 ## Scope of work
 
-- **Data:** pipelines, SQL analytics, KPI reporting
-- **Backend and integrations:** Python services and microservices, APIs
-- **AI:** LLM agents with tool use, QLoRA fine-tuning, evaluation design
+- **AI:** LLM agents and harnesses (tool use, context, evaluation), RAG and knowledge bases, QLoRA fine-tuning, agent observability with Langfuse
+- **Data:** pipelines, SQL analytics, datasets for the BI team, KPI reporting
+- **Backend and integrations:** Python services and microservices, APIs, AWS (Lambda, S3, EventBridge, API Gateway, Bedrock)
 - **Delivery:** automated tests, continuous integration, reproducible environments, documentation
 
 ## Featured project
@@ -31,7 +31,7 @@ An agent that answers questions about official Argentine time series by querying
 
 ## Experience
 
-- **Software Developer — Colonia Suiza** (Jul 2026–present). Innovation Team, IT Department. Hybrid role between development and product management. End-to-end development of AI solutions and microservices for the claims business (data pipelines, backend, integrations), across 4 business verticals.
+- **Junior AI & Data Engineer — Colonia Suiza** (Jul 2026–present). Innovation Team, IT Department. Hybrid role between AI engineering, data engineering and product thinking. AI agents and their harnesses, RAG systems and knowledge bases, and data pipelines for the BI team, across 4 business verticals in claims management. Success metrics (time per task, adoption, repeat use) defined before building and tracked from the first release.
 
 **Previous roles**
 
@@ -46,6 +46,7 @@ An agent that answers questions about official Argentine time series by querying
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
+- **Stack:** Python · SQL · AWS (Lambda, S3, EventBridge, API Gateway, Bedrock) · LLM APIs · Langfuse
 - **Product background:** backlog and roadmap · discovery → delivery · A/B testing · stakeholder management
 - **Methodologies:** Scrum · Agile · Kanban
 - **Currently learning:** Flask · Claude Agent SDK · product analytics tools (Google Analytics, Amplitude, Mixpanel)
@@ -66,13 +67,13 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 
 ## Español
 
-Desarrollador de software de datos e IA que trabaja de punta a punta en soluciones para gerencia de siniestros: pipelines de datos, servicios de backend e integraciones, componentes basados en LLM y las interfaces que los rodean, según lo requiera cada proyecto. Los roles previos en product management, analítica de datos y consultoría para el sector público dan forma a cómo se define, prioriza y mide el alcance.
+Junior AI & Data Engineer en gerencia de siniestros. El rol combina ingeniería de IA, ingeniería de datos y mirada de producto: agentes LLM y sus harnesses (herramientas, contexto y evaluación), sistemas RAG y bases de conocimiento, y pipelines de datos que ponen información confiable a disposición del equipo de BI. Cada solución se lleva de punta a punta, desde entender el problema hasta entregarla y medir el resultado. Los roles previos en product management, analítica de datos y consultoría para el sector público dan forma a cómo se define, prioriza y mide el alcance.
 
 ## Alcance del trabajo
 
-- **Datos:** pipelines, analítica con SQL, reporting de KPIs
-- **Backend e integraciones:** servicios y microservicios en Python, APIs
-- **IA:** agentes LLM con uso de herramientas, ajuste con QLoRA, diseño de evaluación
+- **IA:** agentes LLM y harnesses (uso de herramientas, contexto, evaluación), RAG y bases de conocimiento, ajuste con QLoRA, observabilidad de agentes con Langfuse
+- **Datos:** pipelines, analítica con SQL, datasets para el equipo de BI, reporting de KPIs
+- **Backend e integraciones:** servicios y microservicios en Python, APIs, AWS (Lambda, S3, EventBridge, API Gateway, Bedrock)
 - **Entrega:** tests automatizados, integración continua, entornos reproducibles, documentación
 
 ## Proyecto destacado
@@ -89,7 +90,7 @@ Agente que responde preguntas sobre series de tiempo oficiales de Argentina cons
 
 ## Experiencia
 
-- **Software Developer — Colonia Suiza** (jul. 2026–actualidad). Equipo de Innovación, Departamento IT. Rol híbrido entre desarrollo y product management. Desarrollo end-to-end de soluciones de IA y microservicios para gerencia de siniestros (pipelines de datos, backend, integraciones), 4 verticales de negocio.
+- **Junior AI & Data Engineer — Colonia Suiza** (jul. 2026–actualidad). Equipo de Innovación, Departamento IT. Rol híbrido entre ingeniería de IA, ingeniería de datos y mirada de producto. Agentes de IA y sus harnesses, sistemas RAG y bases de conocimiento, y pipelines de datos para el equipo de BI, en 4 verticales de negocio de gerencia de siniestros. Métricas de éxito (tiempo por tarea, adopción, uso recurrente) definidas antes de construir y seguidas desde la primera versión.
 
 **Roles anteriores**
 
@@ -104,6 +105,7 @@ Agente que responde preguntas sobre series de tiempo oficiales de Argentina cons
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
+- **Stack:** Python · SQL · AWS (Lambda, S3, EventBridge, API Gateway, Bedrock) · APIs de LLM · Langfuse
 - **Trayectoria en producto:** backlog y roadmap · discovery → delivery · A/B testing · gestión de stakeholders
 - **Metodologías:** Scrum · Agile · Kanban
 - **En desarrollo:** Flask · Claude Agent SDK · herramientas de analítica de producto (Google Analytics, Amplitude, Mixpanel)
