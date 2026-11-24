@@ -2,7 +2,7 @@
 <img src="assets/banner.svg" alt="Estanislao Molinas — Junior AI & Data Engineer: AI agents, RAG, data pipelines, evaluation" width="100%">
 </div>
 
-Junior AI & Data Engineer working in insurance claims management. My position blends AI engineering, data engineering and product thinking: LLM agents and their harnesses (tools, context and evaluation), RAG systems and knowledge bases, and data pipelines that make reliable data available to the BI team. Each solution is owned end to end, from understanding the pain point to shipping it and measuring the result. Earlier roles in product management, data analytics and public-sector consulting shape how scope is defined, prioritized and measured.
+ Data & AI Engineer working in insurance claims management. My position blends AI engineering, data engineering and product thinking: LLM agents and their harnesses (tools, context and evaluation), RAG systems and knowledge bases, and data pipelines that make reliable data available to the BI team. Each solution is owned end to end, from understanding the pain point to shipping it and measuring the result. Earlier roles in product management, data analytics and public-sector consulting shape how scope is defined, prioritized and measured.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estanislao-molinas-4057ba1b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:estanislao.molinasir@gmail.com)
@@ -67,7 +67,7 @@ Registered Product Owner™ (RPO) and Registered Scrum Master™ (RSM) — Scrum
 
 ## Español
 
-Junior AI & Data Engineer en gerencia de siniestros. Mi posición combina ingeniería de IA, ingeniería de datos y mirada de producto: agentes LLM y sus harnesses (herramientas, contexto y evaluación), sistemas RAG y bases de conocimiento, y pipelines de datos que ponen información confiable a disposición del equipo de BI. Cada solución se lleva de punta a punta, desde entender el problema hasta entregarla y medir el resultado. Los roles previos en product management, analítica de datos y consultoría para el sector público dan forma a cómo se define, prioriza y mide el alcance.
+ Data & AI Engineer en gerencia de siniestros. Mi posición combina ingeniería de IA, ingeniería de datos y mirada de producto: agentes LLM y sus harnesses (herramientas, contexto y evaluación), sistemas RAG y bases de conocimiento, y pipelines de datos que ponen información confiable a disposición del equipo de BI. Cada solución se lleva de punta a punta, desde entender el problema hasta entregarla y medir el resultado. Los roles previos en product management, analítica de datos y consultoría para el sector público dan forma a cómo se define, prioriza y mide el alcance.
 
 ## Alcance del trabajo
 
