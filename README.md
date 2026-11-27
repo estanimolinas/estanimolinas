@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Estanislao Molinas — Junior AI & Data Engineer: AI agents, RAG, data pipelines, evaluation" width="100%">
+<img src="assets/banner.svg" alt="Estanislao Molinas —  AI & Data Engineer: AI agents, RAG, data pipelines, evaluation" width="100%">
 </div>
 
  Data & AI Engineer working in insurance claims management. My position blends AI engineering, data engineering and product thinking: LLM agents and their harnesses (tools, context and evaluation), RAG systems and knowledge bases, and data pipelines that make reliable data available to the BI team. Each solution is owned end to end, from understanding the pain point to shipping it and measuring the result. Earlier roles in product management, data analytics and public-sector consulting shape how scope is defined, prioritized and measured.
