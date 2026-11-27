@@ -28,7 +28,7 @@ An agent that answers questions about official Argentine time series by querying
 
 ## Experience
 
-- **Junior AI & Data Engineer — Colonia Suiza** (Jul 2026–present). Innovation Team, IT Department. Hybrid role between AI engineering, data engineering and product thinking. AI agents and their harnesses, RAG systems and knowledge bases, and data pipelines for the BI team, across 4 business verticals in claims management. Success metrics (time per task, adoption, repeat use) defined before building and tracked from the first release.
+- **AI & Data Engineer — Colonia Suiza** (Jul 2026–present). Innovation Team, IT Department. Hybrid role between AI engineering, data engineering and product thinking. AI agents and their harnesses, RAG systems and knowledge bases, and data pipelines for the BI team, across 4 business verticals in claims management. Success metrics (time per task, adoption, repeat use) defined before building and tracked from the first release.
 
 **Previous roles**
 
@@ -87,7 +87,7 @@ Agente que responde preguntas sobre series de tiempo oficiales de Argentina cons
 
 ## Experiencia
 
-- **Junior AI & Data Engineer — Colonia Suiza** (jul. 2026–actualidad). Equipo de Innovación, Departamento IT. Rol híbrido entre ingeniería de IA, ingeniería de datos y mirada de producto. Agentes de IA y sus harnesses, sistemas RAG y bases de conocimiento, y pipelines de datos para el equipo de BI, en 4 verticales de negocio de gerencia de siniestros. Métricas de éxito (tiempo por tarea, adopción, uso recurrente) definidas antes de construir y seguidas desde la primera versión.
+- **AI & Data Engineer — Colonia Suiza** (jul. 2026–actualidad). Equipo de Innovación, Departamento IT. Rol híbrido entre ingeniería de IA, ingeniería de datos y mirada de producto. Agentes de IA y sus harnesses, sistemas RAG y bases de conocimiento, y pipelines de datos para el equipo de BI, en 4 verticales de negocio de gerencia de siniestros. Métricas de éxito (tiempo por tarea, adopción, uso recurrente) definidas antes de construir y seguidas desde la primera versión.
 
 **Roles anteriores**
 
